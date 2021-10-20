@@ -1,0 +1,81 @@
+{
+  "headerRoutes": [
+    {
+      "path": "/",
+      "label": "Home",
+      "id": 1
+    },
+    {
+      "path": "/about",
+      "label": "About",
+      "id": 2
+    },
+    {
+      "path": "/login",
+      "label": "Login",
+      "id": 3
+    },
+    {
+      "path": "/signup",
+      "label": "SignUp",
+      "id": 4
+    }
+  ],
+  "headerRoutesAdmin": [
+    {
+      "path": "/",
+      "label": "Home",
+      "id": 1
+    },
+    {
+      "path": "/stats",
+      "label": "Stats",
+      "id": 2
+    }
+  ],
+  "carouselData": [
+    {
+      "image": "https://m.media-amazon.com/images/I/81qDhAQH-vL._SX3000_.jpg",
+      "alt": "Great Indian Sale",
+      "id": 1
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/611-d-7-OPL._SX3000_.jpg",
+      "alt": "bata sale",
+      "id": 2
+    }
+  ],
+  "productsData": [
+    {
+      "image": "https://m.media-amazon.com/images/I/81honDW4lbL._SY606_.jpg",
+      "imgAlt": "Samsung Galaxy A32",
+      "name": "Samsung Galaxy A32",
+      "description": "",
+      "price": "20,000",
+      "discount": "",
+      "inStock": "yes",
+      "slug": "",
+      "id": 1
+    },
+    {
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71ZOtNdaZCL._AC_UL160_SR160,160_.jpg",
+      "imgAlt": "iphone",
+      "name": "I Phone 12",
+      "description": "test desc",
+      "price": "70,900",
+      "discount": "20%",
+      "inStock": "yes",
+      "slug": "i-phone",
+      "id": 2
+    }
+  ],
+  "aboutData": [
+    {
+      "image": "https://trigensoft.com/wp-content/uploads/2020/12/cropped-new_logo-4.png",
+      "imgAlt": "trigensoft",
+      "title": "About Company",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum suscipit totam doloremque laborum laudantium quas, nostrum quam fugit quaerat deserunt cupiditate nisi eos dolorum neque recusandae. Dicta ab ut, quo nihil repellat pariatur rem dolore omnis laboriosam quisquam doloremque nobis aliquid iusto, quod deleniti labore dolorum voluptatum officiis fuga quibusdam, error recusandae nostrum! Modi, repellendus saepe quibusdam quidem temporibus distinctio incidunt cupiditate. Laudantium neque maiores at error, qui hic perferendis ab cum dicta quia aspernatur nemo nihil, culpa ipsam reiciendis praesentium. Exercitationem vitae reprehenderit obcaecati praesentium illo dolorum at distinctio inventore voluptatem. Dolorem, at. Magni, rem necessitatibus? Nam, sunt odit!",
+      "id": 1
+    }
+  ]
+}
